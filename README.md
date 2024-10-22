@@ -1,5 +1,5 @@
-# concurrency-sandbox
-A home to things related to concurrent programming. Likely mixed languages
+# Concurrency Sandbox
+My home for code & learning notes from the below references.
 
 
 # Readings
