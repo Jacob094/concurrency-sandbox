@@ -1,5 +1,5 @@
 # Concurrency Sandbox
-My home for code & learning notes from the below references.
+My home for code & learning notes from the below references. I will mostly stick to C++ but occasionally add other snips from other languages as well like Go and Rust.
 
 `Want to add resources or code? Feel free to add a PR and I'll review when free. I will not allow the upload of books or docs themselves. Only link official / reputable sources.`
 
